@@ -1,2 +1,2 @@
 # Interactive-Rating
-This is a nice, small project to practice handling user interactions and updating the DOM by using React. 
+This is a nice, small project creating handling user interactions and updating the DOM by using React. 
